@@ -115,3 +115,32 @@ footer{
 footer p{
     margin: 10px 0;
 }
+/* 제주 상세보기 */
+.intro{
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.intro img{
+    width: 100%;
+}
+.intro h2{
+    margin: 24px 0;
+    color: #1e88e5;
+}
+.intro p{
+    margin: 14px 0;
+}
+.intro hr{
+    border-top: 1px solid #555;
+}
+.intro li{
+    margin-left: 14px;
+}
+/* 여행 정보 */
+.info{
+    background-color:#e3f2fb;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
